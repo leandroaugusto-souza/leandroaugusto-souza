@@ -34,13 +34,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-orange?style=for-the-badge&logo=eclipse-ide&logoColor=blue)
  
-<br/>
-
-<a href="https://github.com/leandroaugusto-souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroaugusto-souza&theme=dracula&show_icons=true" />
- </a>
- 
- <br/>
 
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugusto-souza&theme=dracula)](https://github.com/leandroaugusto-souza/github-readme-stats)
 
